@@ -1,0 +1,2 @@
+Long_Var_Name_is_Created=12
+print(Long_Var_Name_is_Created)

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="Approve" />
+    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="Iniial commit">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SteveSarto"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SteveSarto/PYATB4xLearning.git",
+    "accountId": "9ad7a553-21ca-49ae-a33e-583661c972dc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -32,6 +56,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -97,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723098089367</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Iniial commit">
+      <option name="closed" value="true" />
+      <created>1723098783685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723098783685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +155,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Approve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Approve" />
+    <MESSAGE value="Iniial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab009.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
