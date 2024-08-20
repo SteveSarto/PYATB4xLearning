@@ -4,6 +4,9 @@
 x= int(input("enter x"))
 y=int(input("enter y"))
 
-print(x>y)
-print(x<y)
-print(x==y)
+if x>y:
+   print("number 1 is greater than num 2")
+if x<y:
+   print("number 1 is less than number2")
+else:
+   print("Both are equal")
