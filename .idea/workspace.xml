@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="17 aug Task">
-      <change afterPath="$PROJECT_DIR$/src/PyATB4Task/20082024Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyATB4Task/20082024Task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyATB4Task/20082024Task9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab042.py" afterDir="false" />
+    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="20 aug">
+      <change afterPath="$PROJECT_DIR$/src/PyATB4Task/22082024Task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATB4Task/22082024Task11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PyATB4Task/17082024Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATB4Task/17082024Task5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +69,9 @@
     "Python.17082024Task6.executor": "Run",
     "Python.20082024Task7.executor": "Run",
     "Python.20082024Task8.executor": "Run",
+    "Python.20082024Task9.executor": "Run",
+    "Python.22082024Task10.executor": "Run",
+    "Python.22082024Task11.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
@@ -99,6 +108,20 @@
     "Python.Lab039.executor": "Run",
     "Python.Lab040.executor": "Run",
     "Python.Lab041.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab50.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -204,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724077896052</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20 aug">
+      <option name="closed" value="true" />
+      <created>1724167849931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724167849931</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +256,8 @@
     <MESSAGE value="13th August" />
     <MESSAGE value="17 aug" />
     <MESSAGE value="17 aug Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 aug Task" />
+    <MESSAGE value="20 aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 aug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
