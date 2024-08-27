@@ -4,11 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="24 aug" />
+    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="24 aug">
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,7 +61,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2kMBs207siAfA4OmG32F1729qFB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -115,6 +142,21 @@
     "Python.Lab070.executor": "Run",
     "Python.Lab071.executor": "Run",
     "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
     "Python.Lab50.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -253,7 +295,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724508679034</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="24 aug">
+      <option name="closed" value="true" />
+      <created>1724508891625</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724508891625</updated>
+    </task>
+    <task id="LOCAL-00013" summary="24 aug">
+      <option name="closed" value="true" />
+      <created>1724508950871</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724508950871</updated>
+    </task>
+    <task id="LOCAL-00014" summary="24 aug">
+      <option name="closed" value="true" />
+      <created>1724509029697</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724509029697</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
