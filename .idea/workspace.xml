@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="29 aug">
+      <change afterPath="$PROJECT_DIR$/src/PyATB4Task/31082024Task12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +70,7 @@
     "Python.20082024Task9.executor": "Run",
     "Python.22082024Task10.executor": "Run",
     "Python.22082024Task11.executor": "Run",
+    "Python.31082024Task12.executor": "Run",
     "Python.Laab095.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -146,6 +154,10 @@
     "Python.Lab100.executor": "Run",
     "Python.Lab101.executor": "Run",
     "Python.Lab103.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab106.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
     "Python.Lab50.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -316,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724999654005</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="29 aug">
+      <option name="closed" value="true" />
+      <created>1725169533526</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725169533526</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,6 +379,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/ex_29082024/Lab095.py</url>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_31082024/Lab105.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
