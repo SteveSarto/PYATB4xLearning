@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="31 aug">
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Lab119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02092024/__init__.py" afterDir="false" />
+    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="Sep 2">
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,6 +169,9 @@
     "Python.Lab117.executor": "Run",
     "Python.Lab118.executor": "Run",
     "Python.Lab119.executor": "Run",
+    "Python.Lab122.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
     "Python.Lab50.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -356,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725176808072</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Sep 2">
+      <option name="closed" value="true" />
+      <created>1725381504197</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725381504197</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +392,8 @@
     <MESSAGE value="24 aug" />
     <MESSAGE value="29 aug" />
     <MESSAGE value="31 aug" />
-    <option name="LAST_COMMIT_MESSAGE" value="31 aug" />
+    <MESSAGE value="Sep 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sep 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -405,6 +416,11 @@
           <url>file://$PROJECT_DIR$/src/ex_31082024/Lab105.py</url>
           <line>24</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_02092024/Lab119.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
