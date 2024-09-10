@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="Sep 2">
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05092024/__init__.py" afterDir="false" />
+    <list default="true" id="42072302-6b09-4fb4-98c8-31435a70a4cc" name="Changes" comment="Sep 5">
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/Lab145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07092024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,6 +173,7 @@
     "Python.Lab122.executor": "Run",
     "Python.Lab123.executor": "Run",
     "Python.Lab124.executor": "Run",
+    "Python.Lab137.executor": "Run",
     "Python.Lab50.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -366,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725381504197</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Sep 5">
+      <option name="closed" value="true" />
+      <created>1725612301948</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725612301948</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,7 +403,8 @@
     <MESSAGE value="29 aug" />
     <MESSAGE value="31 aug" />
     <MESSAGE value="Sep 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sep 2" />
+    <MESSAGE value="Sep 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sep 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
